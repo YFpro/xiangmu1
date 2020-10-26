@@ -1,0 +1,43 @@
+.yff{
+   width: 640px;
+   height: 55px;
+   margin: auto; 
+   text-align: center;
+}
+.yff1{
+    width: 600px;
+    height: 53px;
+    margin: auto;
+    text-align: left;
+    padding: 20px;
+    background: #fbfbfb;
+}
+.yff1 p{
+    margin-left: 0;
+}
+.yff2{
+    width: 600px;
+    height: 320px;
+    margin: auto;
+    padding: 20px;
+}
+.yff2 input{
+    width: 150px;
+    height: 46px;
+    margin-bottom: 20px;
+    outline: none;
+}
+.yff2 textarea{
+    width: 600px;
+    height: 150px;
+    margin-bottom: 20px;
+    outline: none;
+}
+.yff2 button{
+    width: 150px;
+    height: 44px;
+    background: #faefb6;
+    outline: none;
+    border: none;
+    
+}

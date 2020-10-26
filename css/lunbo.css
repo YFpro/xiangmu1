@@ -1,0 +1,69 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+ul,li{
+    list-style: none;
+}
+.lb{
+    width: 100%;
+    height: 67px;
+    text-align: center;
+    font-size: 24px;
+    padding-top: 40px;
+}
+.lunbo{
+    width: 1000px;
+    height: 665px;
+    margin: auto;
+    overflow: hidden;
+}
+.luntu{
+    width: 6000px;
+    height: 665px;
+    transition-duration: 1s;
+}
+.luntu img{
+    width: 1000px;
+    height: 665px;
+    float: left;
+}
+.lunbot{
+    width: 1000px;
+    height: 124px;
+    margin: auto;
+    margin-top: 20px;
+}
+.lunbot li{
+    width: 141px;
+    height: 94px;
+    float: left;
+    margin-top: 15px;
+    margin-right: 22px;
+
+}
+.lunbot li:hover{
+    filter: brightness(50%);
+}
+.lunbot li img{
+    width: 100%;
+    height: 100%;
+}
+.lunbot li:first-child{
+    margin-left: 20px;
+}
+.zizizi{
+    width: 640px;
+    height: 24px;
+    margin: auto;
+    color: #1f497d;
+    font-size: 18px;
+    text-align: center;
+}
+.tututu{
+    width: 640px;
+    height: 458px;
+    margin: auto;
+    margin-top: 20px;
+}

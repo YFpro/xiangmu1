@@ -1,0 +1,85 @@
+h1,h2,p{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.yf-banner{
+    width: 100%;
+    height: 90px;
+    background-image: url(../img/46.jpg);
+    padding-top: 30px;
+}
+.yf-banner img{
+    width: 100%;
+    height: 100%;
+}
+.yf-banner h1,p{
+    margin-left:147px;
+    color:white;
+}
+.yf-banner1{
+    width: 100%;
+    height: 74.6px;
+}
+.yf-banner1 a{
+    width: 88px;
+    height: 24px;
+    display: block;
+    float: left;
+    margin-top: 25px;
+    border-radius: 25%;
+    margin-right: 30px;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 5px;
+}
+.yf-banner1 a:first-child{
+    margin-left:630px;
+    background: #faefb6;
+}
+.yf-nrirong{
+    width: 1170px;
+    height: 306px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.yf-nrirong .left{
+    width: 585px;
+    height: 306px;
+    margin-left: 0;
+    float: left;
+}
+.yf-nrirong .left img{
+    width: 100%;
+    height: 100%;
+}
+.yf-nrirong .right{
+    width: 545px;
+    height: 266px;
+    padding: 20px;
+    float: left;
+}
+.yf-nrirong .right p{
+    margin-left: 0px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 12px;
+    color: #999999;
+}
+.yf-nrirong .right h2{
+    font-size: 22px;
+    color: #ad986e;
+}
+.yf-nrirong .right a{
+    width: 112px;
+    height: 35px;
+    display: block;
+    background: #faefb6;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 70px;
+    display: none;
+}
+.yf-nrirong .right:hover a{
+    display: block;
+}
